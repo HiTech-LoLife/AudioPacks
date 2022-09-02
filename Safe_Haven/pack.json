@@ -1,0 +1,9 @@
+{
+  "name": "Safe Haven",
+  "description": "The theme that plays when at home in VA-11 HALL-A.",
+  "author": "Starlogical",
+  "version": "v1.0",
+  "manifest_version": 1,
+  "music": true,
+  "ignore": []
+}
