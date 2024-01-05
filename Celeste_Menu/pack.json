@@ -1,0 +1,9 @@
+{
+  "name": "Postcard from Celeste Mountain",
+  "description": "Menu Theme from Celeste Soundtrack by Lena Raine",
+  "author": "Starlogical",
+  "version": "v1.0",
+  "manifest_version": 1,
+  "music": true,
+  "ignore": []
+}
